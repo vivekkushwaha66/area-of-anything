@@ -1,0 +1,16 @@
+{
+  "name": "area-of-anything",
+  "version": "1.0.4",
+  "description": "A javascript library to calculate areas of different type of shapes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "area",
+    "math",
+    "triangle"
+  ],
+  "author": "angry_coder",
+  "license": "ISC"
+}
